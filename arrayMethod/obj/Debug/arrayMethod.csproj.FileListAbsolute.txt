@@ -1,0 +1,7 @@
+C:\Users\Sema Gurbanova\source\repos\arrayMethod\bin\Debug\arrayMethod.exe.config
+C:\Users\Sema Gurbanova\source\repos\arrayMethod\bin\Debug\arrayMethod.exe
+C:\Users\Sema Gurbanova\source\repos\arrayMethod\bin\Debug\arrayMethod.pdb
+C:\Users\Sema Gurbanova\source\repos\arrayMethod\obj\Debug\arrayMethod.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\arrayMethod\obj\Debug\arrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\arrayMethod\obj\Debug\arrayMethod.exe
+C:\Users\Sema Gurbanova\source\repos\arrayMethod\obj\Debug\arrayMethod.pdb
