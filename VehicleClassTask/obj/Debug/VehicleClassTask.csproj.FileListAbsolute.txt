@@ -1,0 +1,7 @@
+C:\Users\Sema Gurbanova\source\repos\VehicleClassTask\bin\Debug\VehicleClassTask.exe.config
+C:\Users\Sema Gurbanova\source\repos\VehicleClassTask\bin\Debug\VehicleClassTask.exe
+C:\Users\Sema Gurbanova\source\repos\VehicleClassTask\bin\Debug\VehicleClassTask.pdb
+C:\Users\Sema Gurbanova\source\repos\VehicleClassTask\obj\Debug\VehicleClassTask.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\VehicleClassTask\obj\Debug\VehicleClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\VehicleClassTask\obj\Debug\VehicleClassTask.exe
+C:\Users\Sema Gurbanova\source\repos\VehicleClassTask\obj\Debug\VehicleClassTask.pdb
