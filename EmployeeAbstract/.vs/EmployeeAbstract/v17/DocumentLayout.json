@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|c:\\users\\sema gurbanova\\source\\repos\\employeeabstract\\employeeabstract\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|solutionrelative:employeeabstract\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|c:\\users\\sema gurbanova\\source\\repos\\employeeabstract\\employeeabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|solutionrelative:employeeabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|c:\\users\\sema gurbanova\\source\\repos\\employeeabstract\\employeeabstract\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|solutionrelative:employeeabstract\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|c:\\users\\sema gurbanova\\source\\repos\\employeeabstract\\employeeabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B722CE-8585-41AF-88BD-23B2F906F406}|EmployeeAbstract\\EmployeeAbstract.csproj|solutionrelative:employeeabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeAbstract\\SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\SalariedEmployee.cs",
+              "RelativeToolTip": "EmployeeAbstract\\SalariedEmployee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:34:11.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeAbstract\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\HourlyEmployee.cs",
+              "RelativeToolTip": "EmployeeAbstract\\HourlyEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:32:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAbstract\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\Employee.cs",
+              "RelativeToolTip": "EmployeeAbstract\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:27:19.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAbstract\\Program.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\EmployeeAbstract\\EmployeeAbstract\\Program.cs",
+              "RelativeToolTip": "EmployeeAbstract\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:25:30.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
