@@ -1,0 +1,14 @@
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.exe
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.deps.json
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.runtimeconfig.json
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.dll
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.pdb
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.dll
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\refint\AcademyManagement.dll
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.pdb
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.genruntimeconfig.cache
+C:\Users\Sema Gurbanova\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\ref\AcademyManagement.dll
