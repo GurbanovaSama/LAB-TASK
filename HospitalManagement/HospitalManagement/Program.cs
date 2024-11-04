@@ -61,8 +61,7 @@ namespace HospitalManagement
                         break;
 
                     case "4":
-                        var weeklyAppointments = appointmentService.GetWeeklyAppointments();    
-                        foreach ( var item in weeklyAppointments)
+                        foreach ( var item in (List<Appointment>?)appointmentService.GetWeeklyAppointments())
                         {
                             Console.WriteLine($"{item.Id} , {item.PatientName}, {item.DoctorName}, {item.StartDate}");
                         }
@@ -94,6 +93,8 @@ namespace HospitalManagement
                 }
             }
             List<Appointment> weeklyAppointments = appointmentService.GetWeeklyAppointments();
+            DateTime dateStart = new DateTime(2024, 11, 1);
+            DateTime endDate = new DateTime(2024, 11, 10);
         }
     }
 }
