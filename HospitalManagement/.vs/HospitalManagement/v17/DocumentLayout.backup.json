@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\sema gurbanova\\source\\repos\\hospitalmanagement\\hospitalmanagement\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\sema gurbanova\\source\\repos\\hospitalmanagement\\hospitalmanagement\\exceptions\\appointmentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\exceptions\\appointmentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\sema gurbanova\\source\\repos\\hospitalmanagement\\hospitalmanagement\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\sema gurbanova\\source\\repos\\hospitalmanagement\\hospitalmanagement\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\sema gurbanova\\source\\repos\\hospitalmanagement\\hospitalmanagement\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{832B09DC-503B-44A7-8574-E08EC67D4A41}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\services\\concretes\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,20 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "AppointmentException.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Exceptions\\AppointmentException.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Exceptions\\AppointmentException.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Exceptions\\AppointmentException.cs",
+              "RelativeToolTip": "HospitalManagement\\Exceptions\\AppointmentException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:12:56.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Services\\Concretes\\AppointmentService.cs",
               "RelativeDocumentMoniker": "HospitalManagement\\Services\\Concretes\\AppointmentService.cs",
               "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Services\\Concretes\\AppointmentService.cs",
               "RelativeToolTip": "HospitalManagement\\Services\\Concretes\\AppointmentService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowCkAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwFIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T02:30:33.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IAppointmentService.cs",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Services\\Interfaces\\IAppointmentService.cs",
               "RelativeDocumentMoniker": "HospitalManagement\\Services\\Interfaces\\IAppointmentService.cs",
@@ -68,28 +85,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "HospitalManagement\\Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Appointment.cs",
-              "RelativeToolTip": "HospitalManagement\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T02:23:17.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Program.cs",
               "RelativeDocumentMoniker": "HospitalManagement\\Program.cs",
               "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Program.cs",
               "RelativeToolTip": "HospitalManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwF8AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T02:18:44.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagement\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:23:17.81Z",
               "EditorCaption": ""
             }
           ]

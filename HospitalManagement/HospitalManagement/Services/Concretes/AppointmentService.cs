@@ -1,17 +1,23 @@
-﻿using HospitalManagement.Models;
+﻿using HospitalManagement.Exceptions;
+using HospitalManagement.Models;
 using HospitalManagement.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace HospitalManagement.Services.Concretes
 {
     public class AppointmentService : IAppointmentService
     {
-        private List<Appointment> _appointments = new List<Appointment>();
-     
+        private readonly List<Appointment> _appointments;
+        public AppointmentService()
+        {
+            _appointments = [];  //new List<Appointment>()
+        }
+
         public void AddAppointment(Appointment appointment)
         {
             _appointments.Add(appointment);
@@ -24,12 +30,11 @@ namespace HospitalManagement.Services.Concretes
             if (appointment != null)
             {
                 appointment.EndDate = DateTime.Now;
-                Console.WriteLine("Bitdi");
-            } 
-            else
-            {
-                Console.WriteLine("Appointment tapilmadi");
+                Console.WriteLine($"Bu id-e {id} uygun appointment sonlandirildi");
+                return;
             }
+
+            throw new AppointmentException($"Bu id-e{id} uygun Appointment tapilmadi");
         }
 
         public List<Appointment> GetAllAppointments()
@@ -55,9 +60,30 @@ namespace HospitalManagement.Services.Concretes
 
         public List<Appointment> GetWeeklyAppointments()
         {
-           DateTime today = DateTime.Now;
-           DateTime startOfWeek = today.AddDays(-(int)today.DayOfWeek);
-           return _appointments.Where(x => x.StartDate >= startOfWeek && x.StartDate < startOfWeek.AddDays(7)).ToList();
+            //DateTime startDate = new DateTime(2024, 11, 1);
+            //List<Appointment> response = [];
+            //DateTime date = DateTime.Now;
+            //DateTime newDate = date.AddDays(-15);
+            //if(newDate <= startDate && date >= startDate)
+            //{
+            //    Console.WriteLine("15 gunluk raporlar");
+            //}
+            //Console.WriteLine($"{date.Day} / {date.Month} / {date.Year}");
+
+
+
+            List<Appointment> weeklyAppoinments = [];
+            foreach (Appointment appointment in _appointments)
+            {
+                if (appointment.StartDate >= DateTime.Now.AddDays(-15) && DateTime.Now >= appointment.StartDate )
+                {
+                    weeklyAppoinments.Add( appointment );
+                }
+               
+            }
+
+          
+            return weeklyAppoinments;
         }
     }
 }

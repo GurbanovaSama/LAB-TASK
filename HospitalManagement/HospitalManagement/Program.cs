@@ -92,11 +92,8 @@ namespace HospitalManagement
                         Console.WriteLine("Secim yanlisdir");
                         break;
                 }
-
-
-
-
             }
+            List<Appointment> weeklyAppointments = appointmentService.GetWeeklyAppointments();
         }
     }
 }
