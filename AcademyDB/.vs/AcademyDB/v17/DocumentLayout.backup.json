@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|c:\\users\\sema gurbanova\\source\\repos\\academydb\\academydb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|solutionrelative:academydb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|c:\\users\\sema gurbanova\\source\\repos\\academydb\\academydb\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|solutionrelative:academydb\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|c:\\users\\sema gurbanova\\source\\repos\\academydb\\academydb\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|solutionrelative:academydb\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|c:\\users\\sema gurbanova\\source\\repos\\academydb\\academydb\\helpers\\extensionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D1D4AE-2868-4C4E-B206-8E31CDA59BBF}|AcademyDB\\AcademyDB.csproj|solutionrelative:academydb\\helpers\\extensionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtensionSql.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\Helpers\\ExtensionSql.cs",
+              "RelativeDocumentMoniker": "AcademyDB\\Helpers\\ExtensionSql.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\Helpers\\ExtensionSql.cs",
+              "RelativeToolTip": "AcademyDB\\Helpers\\ExtensionSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:01:15.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\SqlQueries.cs",
+              "RelativeDocumentMoniker": "AcademyDB\\SqlQueries.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\SqlQueries.cs",
+              "RelativeToolTip": "AcademyDB\\SqlQueries.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:51:16.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "AcademyDB\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\GlobalUsing.cs",
+              "RelativeToolTip": "AcademyDB\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:41:01.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AcademyDB\\AcademyDB\\Program.cs",
+              "RelativeToolTip": "AcademyDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:15:46.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
